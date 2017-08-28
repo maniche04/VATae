@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "84900576155",
+    "firebase_url": "https://uaevat-98159.firebaseio.com",
+    "project_id": "uaevat-98159",
+    "storage_bucket": "uaevat-98159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84900576155:android:cd677d32ad69d326",
+        "android_client_info": {
+          "package_name": "com.nagisons.vatfacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84900576155-7ms8t76t17l34qr1dikk73gmceq8fork.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nagisons.vatfacts",
+            "certificate_hash": "db0412577cee02d89ca04bbaacfb65f0214e2cf2"
+          }
+        },
+        {
+          "client_id": "84900576155-h52bp9872qrfnb27ijh6rgbrskqo8nf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUcrrj90K_wPVf8prno_rnEsb-HVhwe2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84900576155-h52bp9872qrfnb27ijh6rgbrskqo8nf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
